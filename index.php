@@ -23,9 +23,9 @@ if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true){
 
         <nav>
             <ul>
-                <li><a href="./login.html">Home</a></li>
-                <li><a href="./registration.html">Category</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="./login.php">Home</a></li>
+                <li><a href="./registration.php">Category</a></li>
+                <li><a href="./about.php">About Us</a></li>
             </ul>
         </nav>
     </header>
